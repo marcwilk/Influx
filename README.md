@@ -10,7 +10,7 @@
 
 - [Installation](#installation)
 - [Wireframe](#wireframe)
-- [Style Guide](#style guide)
+- [Style](#style)
 - [Planning](#planning)
 - [Schema](#schema)
 - [Routes](#routes)
@@ -18,14 +18,14 @@
 
 ### Installation
 
-Step One: Clone this repo to your local machine
+Step One: Clone this repo to your local machine  
 Step Two: NPM Install
 
 ### Wireframe
 
 [https://xd.adobe.com/view/a83a0405-7fda-4f3e-4ebf-754d4cd6f5da-de0b/]
 
-### Style Guide
+### Style
 
 [Color Scheme](https://coolors.co/28262c-809bce-f9f5ff-9fbbcc-7a9cc6)
 ```
@@ -49,11 +49,11 @@ font-family: 'Roboto Condensed', sans-serif;
 [https://trello.com/b/ZQWEmDqa/q2-project]
 
 
-### Schema/ERD for Database
+### Schema
 
 https://www.lucidchart.com/invitations/accept/9a331a84-0ff9-4d8b-9a5b-870fa65efa09
 
-### Server Routes Plan
+### Routes
 
 - Users
   - GET /api/users/:id - Return user info and filter preferences
