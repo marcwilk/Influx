@@ -1,4 +1,4 @@
-<a href="https://influx-news.herokuapp.com/"><img src="public/images/logo.png" title="Influx" alt="Influx" width="100px" height="100px"></a>
+<a href="https://influx-news.herokuapp.com/"><img src="public/images/logo.png" title="Influx" alt="Influx" width="250px" height="250px"></a>
 
 # News-Filtering-App
 # Influx
@@ -8,7 +8,7 @@
 ### Wireframes
 [https://xd.adobe.com/view/a83a0405-7fda-4f3e-4ebf-754d4cd6f5da-de0b/]
 
-### A style guide
+### A Style Guide
 
 [Color Scheme](https://coolors.co/28262c-809bce-f9f5ff-9fbbcc-7a9cc6)
 ```
