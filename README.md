@@ -3,23 +3,26 @@
 </p>
 
 # Influx : News-Filtering-App
+
 [Deployed link](https://influx-news.herokuapp.com/)
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Wireframe](#wireframe)
-- [Style Guide](#styleguide)
+- [Style Guide](#style guide)
 - [Planning](#planning)
 - [Schema](#schema)
 - [Routes](#routes)
 - [API](#api)
 
 ### Installation
-- Clone this repo to your local machine
-- NPM Install
+
+Step One: Clone this repo to your local machine
+Step Two: NPM Install
 
 ### Wireframe
+
 [https://xd.adobe.com/view/a83a0405-7fda-4f3e-4ebf-754d4cd6f5da-de0b/]
 
 ### Style Guide
@@ -47,6 +50,7 @@ font-family: 'Roboto Condensed', sans-serif;
 
 
 ### Schema/ERD for Database
+
 https://www.lucidchart.com/invitations/accept/9a331a84-0ff9-4d8b-9a5b-870fa65efa09
 
 ### Server Routes Plan
