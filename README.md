@@ -1,3 +1,4 @@
+<a href="https://influx-news.herokuapp.com/"<img src="images/logo.png" title="Influx" alt="Influx"></a>
 
 # News-Filtering-App
 # Influx
