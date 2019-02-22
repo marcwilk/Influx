@@ -4,13 +4,26 @@
 
 # News-Filtering-App
 # Influx
-
 [Deployed link](https://influx-news.herokuapp.com/)
 
-### Wireframes
+## Table of Contents
+
+- [Installation](#installation)
+- [Wireframe](#wireframe)
+- [Style Guide](#styleguide)
+- [Planning](#planning)
+- [Schema](#schema)
+- [Routes](#routes)
+- [API](#api)
+
+### Installation
+- Clone this repo to your local machine
+- NPM Install
+
+### Wireframe
 [https://xd.adobe.com/view/a83a0405-7fda-4f3e-4ebf-754d4cd6f5da-de0b/]
 
-### A Style Guide
+### Style Guide
 
 [Color Scheme](https://coolors.co/28262c-809bce-f9f5ff-9fbbcc-7a9cc6)
 ```
