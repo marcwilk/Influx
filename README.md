@@ -2,7 +2,7 @@
 <a href="https://influx-news.herokuapp.com/"><img src="public/images/logo.png" target="_blank" title="Influx" alt="Influx" width="35%"></a>
 </p>
 
-# Influx : News-Filtering-App
+# Influx - News-Filtering-App
 
 [Deployed link](https://influx-news.herokuapp.com/)
 
@@ -19,7 +19,7 @@
 ### Installation
 
 Step One: Clone this repo to your local machine  
-Step Two: NPM Install
+Step Two: npm install
 
 ### Wireframe
 
@@ -30,16 +30,13 @@ Step Two: NPM Install
 [Color Scheme](https://coolors.co/28262c-809bce-f9f5ff-9fbbcc-7a9cc6)
 ```
 /* RGB */
-$color1: #28262c; //font
-$color2: #809bce; //main background
-$color3: f9f5ff; //story backgrounds
+$color1: #28262c; // font
+$color2: #809bce; // main background
+$color3: f9f5ff; // story backgrounds
 ```
-
-Fonts: Playfair Display & Roboto Condensed (example below)
+[Font Scheme](https://fonts.googleapis.com/css?family=Playfair+Display|Roboto+Condensed)
 ```
-<link href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto+Condensed" rel="stylesheet">
-
-CSS -
+/* CSS */
 font-family: 'Playfair Display', serif;
 font-family: 'Roboto Condensed', sans-serif;
 ```
