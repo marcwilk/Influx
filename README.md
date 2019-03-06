@@ -25,7 +25,7 @@ Step Two: npm install
 
 ### About
 
-Full Stack News Search/Filtering API
+Full Stack News Search/Filtering API  
 A search engine for top news stories. Influx lets users create accounts and login to start searching for any and all news. Users are granted breaking news headlines, the ability to search for articles over 30,000 news sources and blogs, and their own unique feed. The designated search creates a tag for later quick references to similar searches.
 
 ### Wireframe
