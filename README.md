@@ -5,6 +5,7 @@
 # Influx - News-Filtering-App
 
 [Deployed link](https://influx-news.herokuapp.com/)
+<<<<<<< HEAD
 
 ## Table of Contents
 
@@ -15,6 +16,7 @@
 - [Schema](#schema)
 - [Routes](#routes)
 - [API](#api)
+- [Technologies](#technologies)
 
 ### Installation
 
@@ -22,6 +24,8 @@ Step One: Clone this repo to your local machine
 Step Two: npm install
 
 ### Wireframe
+=======
+>>>>>>> 819bee72351ed9889563cc782003cb652668bf82
 
 [https://xd.adobe.com/view/a83a0405-7fda-4f3e-4ebf-754d4cd6f5da-de0b/]
 
@@ -73,3 +77,11 @@ https://www.lucidchart.com/invitations/accept/9a331a84-0ff9-4d8b-9a5b-870fa65efa
 ### API
 
 https://newsapi.org
+
+### Technologies
+
+<a href="https://www.postgresql.org/"><img src="public/images/javascript-original.svg" target="_blank" title="PSQL" alt="PSQL" width="15%"></a>
+<a href="https://www.javascript.com/"><img src="public/images/postgresql-original.svg" target="_blank" title="JS" alt="JS" width="15%"></a>
+<a href="https://html.com/"><img src="public/images/html5-original.svg" target="_blank" title="HTML" alt="HTML" width="15%"></a>
+<a href="https://css-tricks.com/"><img src="public/images/css3-original.svg" target="_blank" title="CSS" alt="CSS" width="15%"></a>
+<a href="https://getbootstrap.com/"><img src="public/images/bootstrap-plain.svg" target="_blank" title="Bootstrap" alt="Bootstrap" width="15%"></a>
