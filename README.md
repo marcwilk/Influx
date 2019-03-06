@@ -77,8 +77,11 @@ https://newsapi.org
 
 ### Technologies
 
-<a href="https://www.postgresql.org/"><img src="public/images/javascript-original.svg" target="_blank" title="PSQL" alt="PSQL" width="15%"></a>
-<a href="https://www.javascript.com/"><img src="public/images/postgresql-original.svg" target="_blank" title="JS" alt="JS" width="15%"></a>
+<a href="https://www.javascript.com/"><img src="public/images/javascript-original.svg" target="_blank" title="JS" alt="JS" width="15%"></a>
+<a href="https://www.postgresql.org/"><img src="public/images/postgresql-original.svg" target="_blank" title="PSQL" alt="PSQL" width="15%"></a>
+<a href="https://www.npmjs.com/package/express"><img src="public/images/express-original.svg" target="_blank" title="Express" alt="Express" width="15%"></a>
+<a href="https://nodejs.org/en/"><img src="public/images/nodejs-original.svg" target="_blank" title="Node" alt="Node" width="15%"></a>
+<a href="https://npmjs.com"><img src="public/images/npm-original-wordmark.svg" target="_blank" title="NPM" alt="NPM" width="15%"></a>
 <a href="https://html.com/"><img src="public/images/html5-original.svg" target="_blank" title="HTML" alt="HTML" width="15%"></a>
 <a href="https://css-tricks.com/"><img src="public/images/css3-original.svg" target="_blank" title="CSS" alt="CSS" width="15%"></a>
 <a href="https://getbootstrap.com/"><img src="public/images/bootstrap-plain.svg" target="_blank" title="Bootstrap" alt="Bootstrap" width="15%"></a>
