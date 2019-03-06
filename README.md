@@ -5,7 +5,6 @@
 # Influx - News-Filtering-App
 
 [Deployed link](https://influx-news.herokuapp.com/)
-<<<<<<< HEAD
 
 ## Table of Contents
 
@@ -24,8 +23,6 @@ Step One: Clone this repo to your local machine
 Step Two: npm install
 
 ### Wireframe
-=======
->>>>>>> 819bee72351ed9889563cc782003cb652668bf82
 
 [https://xd.adobe.com/view/a83a0405-7fda-4f3e-4ebf-754d4cd6f5da-de0b/]
 
