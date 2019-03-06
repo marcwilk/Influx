@@ -9,6 +9,7 @@
 ## Table of Contents
 
 - [Installation](#installation)
+- [About](#about)
 - [Wireframe](#wireframe)
 - [Style](#style)
 - [Planning](#planning)
@@ -20,7 +21,12 @@
 ### Installation
 
 Step One: Clone this repo to your local machine  
-Step Two: npm install
+Step Two: npm install  
+
+### About
+
+Full Stack News Search/Filtering API
+A search engine for top news stories. Influx lets users create accounts and login to start searching for any and all news. Users are granted breaking news headlines, the ability to search for articles over 30,000 news sources and blogs, and their own unique feed. The designated search creates a tag for later quick references to similar searches.
 
 ### Wireframe
 
@@ -76,6 +82,8 @@ https://www.lucidchart.com/invitations/accept/9a331a84-0ff9-4d8b-9a5b-870fa65efa
 https://newsapi.org
 
 ### Technologies
+
+JavaScript, PostgreSQL, Express, Node, NPM, Heroku, HTML, CSS, Bootstrap, Axios, Knex, Bcrypt, JSON Web Tokens
 
 <a href="https://www.javascript.com/"><img src="public/images/javascript-original.svg" target="_blank" title="JS" alt="JS" width="15%"></a>
 <a href="https://www.postgresql.org/"><img src="public/images/postgresql-original.svg" target="_blank" title="PSQL" alt="PSQL" width="15%"></a>
